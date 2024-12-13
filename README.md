@@ -6,7 +6,7 @@
 <br>
 
 - 📍 Based in **Indonesia**
-- 🎓 Currently studying at **Mercu Buana University**
+- 🎓 Currently studying at **Mercu Buana University**, majoring in CompSci
 - 📚 Exploring the world of **Data Science** and **Machine Learning**
 - 🏎️ Fun fact, I’m a huge fan of **Formula 1**!
 - 📬 How to reach me -> **mbsarendra@gmail.com**
