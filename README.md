@@ -9,7 +9,7 @@
 - 🎓 Currently studying at **Mercu Buana University**, majoring in **CompSci**
 - 📚 Exploring the world of **Data Science** and **Machine Learning**
 - 🏎️ Fun fact, I’m a huge fan of **Formula 1**!
-- 📬 How to reach me -> **mbsarendra@gmail.com**
+- 📬 How to reach me -> **bagassarendradev@gmail.com**
 
 <h3 align="left">Technologies and Platforms I Use</h3>
 
